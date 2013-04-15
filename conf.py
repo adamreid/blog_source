@@ -53,6 +53,7 @@ SIDEBAR_LINKS = {
     DEFAULT_LANG: (
         ('/archive.html', 'Archives'),
         ('/categories/index.html', 'Tags'),
+        ('/pages/resume.html', 'Resumé')
     ),
 }
 
@@ -86,6 +87,7 @@ SIDEBAR_LINKS = {
 post_pages = (
     ("posts/*.txt", "posts", "post.tmpl", True),
     ("posts/*.md", "posts", "post.tmpl", True),
+    ("pages/*.txt", "pages", "story.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.

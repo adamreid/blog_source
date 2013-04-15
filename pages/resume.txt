@@ -1,0 +1,64 @@
+.. title: Adam Reid
+.. slug: resume
+.. date: 2013/04/14 06:34:11
+.. tags: 
+.. link: 
+.. description: Adam Reids resumé. Last updated April 2013.
+
+About Me
+========
+
+I am a skilled and dedicated technology worker with a mind for technical challenges
+and a focus on software build and deployment automation. I have a keen interest in improving processes and products by leveraging existing tools and adopting new technologies.
+
+Experience
+==========
+
+Software Build & Configuration Management
+-----------------------------------------
+  
+  Navtech Inc. *April 2011 - Present*
+
+The Build team focuses on the administration and automation of software repositories and releases acting as the gatekeepers between development, quality assurance and production.
+
+As a build team member I helped migrate the build systems from a home-grown solution to the open source Jenkins continuous integration system. As part of this effort I implemented integration between Jenkins and our issue tracking system by writing a Jenkins plugin and extending the issue tracker link builds and issues together.
+
+Day to day responsibilities include
+
+* support for global development infrastructure
+* scripting in Python, Perl, and shell to improve the build infrastructure
+* QA environment configuration and support
+* Document product updates and procedures
+
+Installation Management Specialist
+----------------------------------
+  
+  Navtech Inc. *June 2008 - April 2011*
+
+As an installation management specialist I was responsible for the configuration, documentation, customisation and support of production systems for the company and its customers. As a third-tier support role I was in constant contact with technical support, customers, developers, and IT to help satisfy customer requirements.
+
+This role provided the foundation for my knowledge in Linux and Windows configuration management. It was in this position I first started looking at better ways to implement and maintain consistent configurations which I am now able to implement in my build role.
+
+While on the installation management team I desgined a practical skills exam for potential hires to the technical support role. I used virtual machines and snapshots to set up the problems that needed to be solved and session recording to help evaluate the candidates.
+
+Technical Support Specialist
+----------------------------
+  
+  Navtech Inc. *February 2007 - June 2008*
+
+This second-tier support role is where I first got to apply the knowledge I gained from playing with Linux in my spare time and solve real problems with it. I learned how to handle high-pressure situations, prioritize issues when there were too many to keep up with, and productively use idle time when it was not required by customers.
+
+Customer Service Representative
+-------------------------------
+  Virtek Vision. *2003 - 2007*
+
+At Virtek I specialized in laser based two-dimensional measurement systems and provided installation, end user training, maintenance and support both on-site and remotely to customers all over North America and Europe. While there I developed a tool in Python that helped me analyse calibration data to find common issues more quickly.
+
+Education
+=========
+
+Conestoga College
+-----------------
+Electronics Engineering Technician Diploma
+
+*2000 - 2002*
